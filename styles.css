@@ -1,44 +1,44 @@
 .note-div {
-    display: flex;
-    align-items: center; 
-    margin-top: 15px;
-    margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 .textarea-message {
-    margin-right: 10px;
+  margin-right: 10px;
 }
 
 .btn-return-menu {
-    margin-top: 30px;
+  margin-top: 30px;
 }
 
 .remove-button {
-    background-color: orange;
+  background-color: orange;
 }
 
 .textarea-message {
-    background-color: rgb(99, 184, 234);
+  background-color: rgb(99, 184, 234);
 }
 
 .div-readers-note {
-    width: 250px;
-    height: 100px;
-    background-color: rgb(99, 184, 234);
-    margin-top: 15px;
-    margin-bottom: 15px;
+  width: 250px;
+  height: 100px;
+  background-color: rgb(99, 184, 234);
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 .main-buttons {
-    margin-top: 15px;
-    margin-bottom: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 #button-add-note {
-    background-color: rgb(115, 226, 115);
-    width: 80px;
+  background-color: rgb(115, 226, 115);
+  width: 80px;
 }
 
 #update-time {
-    text-align: right;
+  text-align: right;
 }
